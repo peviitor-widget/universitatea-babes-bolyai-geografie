@@ -1,22 +1,5 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-geodez-topografie-si-cadastru-7",
-    "title": "Inginer geodez/topografie si cadastru",
-    "company": "ATI URBAN S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:45:21.780Z",
-    "status": "scraped",
-    "tags": [
-      "topografie computerizata",
-      "cadastru"
-    ],
-    "matchPercentage": 88,
-    "reason": "Inginer geodez/topografie și cadastru corespunde direct formării în topografie computerizată și cadastru edilitar."
-  },
-  {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-cadastru-gis-topograf",
     "title": "Specialist Cadastru &amp; GIS / Topograf",
     "company": "ELEVEN INVESTMENTS S.R.L.",
@@ -24,14 +7,99 @@
       "Strada Lucian Blaga, Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:24:37.171Z",
+    "date": "2026-10-03T13:23:17.025Z",
     "status": "scraped",
     "tags": [
-      "SIG",
-      "cadastru"
+      "GIS",
+      "cadastru edilitar"
+    ],
+    "matchPercentage": 88,
+    "reason": "Specialist cadastru & GIS/topograf combina direct cadastrul, GIS-ul si topografia, pozitie potrivita pentru un proaspat absolvent."
+  },
+  {
+    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
+    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
+    "company": "JOBZZLE CONNECT S.R.L.",
+    "location": [
+      "Pitești, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:04:47.020Z",
+    "status": "scraped",
+    "tags": [
+      "cadastru edilitar",
+      "GIS"
+    ],
+    "matchPercentage": 86,
+    "reason": "Birou de cadastru-topografie-geodezie cu documentatii cadastrale, potrivire directa pentru studiile tale."
+  },
+  {
+    "url": "https://multijobs.ro/job/angajam-inginer-geodez-departament-cadastru/1343",
+    "title": "Angajam Inginer geodez - Departament cadastru",
+    "company": "SAGRADO GROUP S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:16:55.875Z",
+    "status": "scraped",
+    "tags": [
+      "topografie computerizata",
+      "cadastru edilitar"
     ],
     "matchPercentage": 85,
-    "reason": "Specialist Cadastru & GIS / Topograf combină exact topografia, cadastrul și aplicațiile SIG."
+    "reason": "Inginer geodez in departamentul cadastru corespunde direct formarii tale in geodezie-topografie."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-geodez-topografie-si-cadastru-7",
+    "title": "Inginer geodez/topografie si cadastru",
+    "company": "ATI URBAN S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:19:21.416Z",
+    "status": "scraped",
+    "tags": [
+      "topografie computerizată",
+      "cadastru"
+    ],
+    "matchPercentage": 82,
+    "reason": "Rol tehnic direct în topografie, cadastru edilitar și GIS urban, exact specializarea mea."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3391567",
+    "title": "TEHNICIAN TOPOMETRIST",
+    "company": "DMA TOPOGRAFIE S.R.L.",
+    "location": [
+      "Bobalna, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:06:18.418Z",
+    "status": "scraped",
+    "tags": [
+      "topografie computerizata",
+      "GPS"
+    ],
+    "matchPercentage": 82,
+    "reason": "Tehnician topometrist cu 0 ani experienta, exact portita ta de intrare in topografie computerizata si GPS."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/operator-date-cadastru-junior-32",
+    "title": "Operator date cadastru junior",
+    "company": "GEOAGRI CADASTRU SRL",
+    "location": [
+      "sector 2, BUCURESTI, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:11:17.665Z",
+    "status": "scraped",
+    "tags": [
+      "cadastru edilitar",
+      "baze de date spatiale"
+    ],
+    "matchPercentage": 80,
+    "reason": "Operator date cadastru la nivel junior, intrare rezonabila in domeniul cadastrului."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-topo-cadastru-ancpi-full-time",
@@ -45,61 +113,10 @@
     "status": "scraped",
     "tags": [
       "cadastru edilitar",
-      "topografie"
-    ],
-    "matchPercentage": 80,
-    "reason": "Inginer topo-cadastru ANCPI la un furnizor de date geografice, cu opțiune de lucru parțial remote."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/operator-date-cadastru-junior-32",
-    "title": "Operator date cadastru junior",
-    "company": "GEOAGRI CADASTRU SRL",
-    "location": [
-      "sector 2, BUCURESTI, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:28:58.267Z",
-    "status": "scraped",
-    "tags": [
-      "cadastru",
-      "date cadastrale"
+      "topografie computerizata"
     ],
     "matchPercentage": 78,
-    "reason": "Operator date cadastru junior la un birou specializat în cadastru GIS - domeniu potrivit, nivel entry-level."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3391567",
-    "title": "TEHNICIAN TOPOMETRIST",
-    "company": "DMA TOPOGRAFIE S.R.L.",
-    "location": [
-      "Bobalna, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-01T15:25:59.273Z",
-    "status": "scraped",
-    "tags": [
-      "topografie computerizata",
-      "topometrie"
-    ],
-    "matchPercentage": 76,
-    "reason": "Tehnician topometrist la un birou de topografie, nivel intrare acceptabil, deși solicită doar învățământ postliceal și nu menționează GIS."
-  },
-  {
-    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
-    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
-    "company": "JOBZZLE CONNECT S.R.L.",
-    "location": [
-      "Pitești, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-01T15:08:30.665Z",
-    "status": "scraped",
-    "tags": [
-      "cadastru",
-      "documentatii cadastrale"
-    ],
-    "matchPercentage": 76,
-    "reason": "Birou de cadastru/topografie caută personal pentru activitate de birou în domeniul cadastrului, cu avantaj studii în geodezie-topografie."
+    "reason": "Inginer topo-cadastru este in domeniul tau, dar postul poate cere autorizatia ANCPI, deci potrivire partiala."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-instalari-gps-24",
@@ -112,10 +129,27 @@
     "date": "2026-10-02T14:34:46.512Z",
     "status": "scraped",
     "tags": [
-      "GNSS",
-      "instalare GPS"
+      "GPS",
+      "topografie computerizata"
+    ],
+    "matchPercentage": 63,
+    "reason": "Instalarea echipamentelor GNSS are legatura cu domeniul, dar e mai degraba montaj tehnic decat analiza spatiala proprie."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-marketing-turism-3",
+    "title": "Specialist Marketing Turism",
+    "company": "EUROTRAVEL SRL",
+    "location": [
+      "Bulevardul Aviatorilor 59, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:26:04.686Z",
+    "status": "scraped",
+    "tags": [
+      "marketing turistic",
+      "geobranding"
     ],
     "matchPercentage": 62,
-    "reason": "Tehnician instalări GPS se racordează la competența GPS/GNSS, dar accentul e pe montaj hardware în teren."
+    "reason": "Marketing turistic se încadrează parțial în domeniul meu, dar rolul e de vânzări/agenție, nu modelare teritorială."
   }
 ]
