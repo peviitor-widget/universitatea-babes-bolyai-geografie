@@ -1,22 +1,5 @@
 [
   {
-    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
-    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:10:48.920Z",
-    "status": "scraped",
-    "tags": [
-      "protectia mediului",
-      "biodiversitate"
-    ],
-    "matchPercentage": 82,
-    "reason": "Cercetator ACS la institut de cercetare pentru protectia mediului, domeniu direct (biodiversitate, calitatea apei, riscuri de mediu), gradul ACS fiind entry-level."
-  },
-  {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-geodez-topografie-si-cadastru-7",
     "title": "Inginer geodez/topografie si cadastru",
     "company": "ATI URBAN S.R.L.",
@@ -27,45 +10,11 @@
     "date": "2026-10-04T14:06:01.230Z",
     "status": "scraped",
     "tags": [
-      "topografie computerizata",
-      "cadastru"
-    ],
-    "matchPercentage": 80,
-    "reason": "Pozitie de inginer geodez/topografie si cadastru la un birou Urban GIS, alinierea directa cu topografia computerizata si cadastrul edilitar asistat de GIS."
-  },
-  {
-    "url": "https://multijobs.ro/job/angajam-inginer-geodez-departament-cadastru/1343",
-    "title": "Angajam Inginer geodez - Departament cadastru",
-    "company": "SAGRADO GROUP S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T13:43:49.227Z",
-    "status": "scraped",
-    "tags": [
       "cadastru",
-      "topografie computerizata"
+      "GIS"
     ],
-    "matchPercentage": 80,
-    "reason": "Inginer geodez in departamentul de cadastru, sarcinile de masuratori, prelucrare si baze de date cadastrale se potrivesc direct."
-  },
-  {
-    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
-    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
-    "company": "JOBZZLE CONNECT S.R.L.",
-    "location": [
-      "Pitești, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:04:47.020Z",
-    "status": "scraped",
-    "tags": [
-      "cadastru",
-      "topografie computerizata"
-    ],
-    "matchPercentage": 78,
-    "reason": "Birou de cadastru/topografie care cauta absolventi cu studii in geodezie-topografie-cadastru, cu documentatii cadastrale in GIS."
+    "matchPercentage": 85,
+    "reason": "Inginerie geodezică, topografie și cadastru la o firmă de Urban GIS, potrivire directă cu competențele tehnice."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/operator-date-cadastru-junior-32",
@@ -79,10 +28,10 @@
     "status": "scraped",
     "tags": [
       "cadastru",
-      "PostGIS"
+      "GIS"
     ],
-    "matchPercentage": 76,
-    "reason": "Operator de date cadastru la nivel junior intr-o firma de cadastru, potrivire directa la prelucrarea documentatiilor cadastrale."
+    "matchPercentage": 85,
+    "reason": "Junior în prelucrare de date cadastruale, nivel și domeniu potrivite pentru absolvent."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-topo-cadastru-ancpi-full-time",
@@ -95,62 +44,11 @@
     "date": "2026-10-01T15:14:36.739Z",
     "status": "scraped",
     "tags": [
-      "cadastru",
-      "topografie computerizata"
-    ],
-    "matchPercentage": 76,
-    "reason": "Inginer topo-cadastru full time, relevant pentru geodezie si cadastru, desi autorizatia ANCPI poate cere experiență suplimentară."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
-    "title": "Responsabil activitati monitorizare Dunare",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:10:48.920Z",
-    "status": "scraped",
-    "tags": [
-      "riscuri hidrice",
-      "calitatea apei"
-    ],
-    "matchPercentage": 76,
-    "reason": "Monitorizarea Dunarii la un institut de cercetare pentru mediu se leaga de riscurile hidrice si calitatea resurselor de apa, la nivel de responsabil junior."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-nerambursabile-36",
-    "title": "Consultant fonduri europene nerambursabile",
-    "company": "ANALITIQ MANAGEMENT S.R.L.",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:13:42.872Z",
-    "status": "scraped",
-    "tags": [
-      "finantare europeana",
-      "proiecte"
-    ],
-    "matchPercentage": 74,
-    "reason": "Consultant fonduri europene corespunde coordonarii proiectelor cu finantare europeana, iar pozitia in Cluj este la nivel de intrare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3391567",
-    "title": "TEHNICIAN TOPOMETRIST",
-    "company": "DMA TOPOGRAFIE S.R.L.",
-    "location": [
-      "Bobalna, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:06:18.418Z",
-    "status": "scraped",
-    "tags": [
-      "topografie computerizata",
+      "topografie",
       "cadastru"
     ],
-    "matchPercentage": 70,
-    "reason": "Tehnician topometrist fara experienta in topometrie, insa cerinta educationala (invatamant superior fara licenta) si focusul clasic pe teren reduc potentialul de potrivire."
+    "matchPercentage": 85,
+    "reason": "Inginer topo-cadastru ANCPI, potrivire directă cu topografia computerizată și cadastrul, nivel entry/mid."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-cadastru-gis-topograf",
@@ -166,24 +64,108 @@
       "GIS",
       "cadastru"
     ],
-    "matchPercentage": 70,
-    "reason": "Specialist cadastru & GIS/topograf la o companie de investitii, domeniu direct, dar titlul de specialist si cererea de experienta reduc din scor."
+    "matchPercentage": 82,
+    "reason": "Specialist cadastru, GIS și topografie, potrivire directă cu profilul, nivel de specialist junior/mid."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/urbanist-peisagist-cu-drept-de-semnatura",
-    "title": "Urbanist/Peisagist cu drept de semnatura",
-    "company": "ACTA ARCHITECTURE SI URBANISM S.R.L.",
+    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
+    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
+    "company": "JOBZZLE CONNECT S.R.L.",
+    "location": [
+      "Pitești, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T17:00:52.392Z",
+    "status": "scraped",
+    "tags": [
+      "cadastru",
+      "topografie"
+    ],
+    "matchPercentage": 80,
+    "reason": "Activitate de cadastru-topografie-geodezie în birou, directă cu competențele de cadastru și topografie, nivel entry/mid acceptat."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/agent-de-turism-bucuresti-vdkp9w",
+    "title": "AGENT DE TURISM – București",
+    "company": "TURISM SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T14:05:46.178Z",
+    "date": "2026-10-05T17:04:28.871Z",
     "status": "scraped",
     "tags": [
-      "amenajare teritoriala",
-      "urbanism"
+      "management turistic",
+      "marketing turistic"
     ],
-    "matchPercentage": 68,
-    "reason": "Urbanist cu drept de semnatura este relevant pentru amenajare teritoriala, dar postul e prea matur (necesita stagiu si ani de experienta) pentru un absolvent."
+    "matchPercentage": 66,
+    "reason": "Agenție touroperatoră care necesită cunoștințe turistice (programe, furnizori, destinații) la nivel de intrare, deși activitatea este preponderent comercială."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/junior-java-developer/96802",
+    "title": "Junior Java Developer",
+    "company": "CAPGEMINI SERVICES ROMANIA SRL",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T17:10:22.311Z",
+    "status": "scraped",
+    "tags": [
+      "programare Java"
+    ],
+    "matchPercentage": 65,
+    "reason": "Nivel junior cu cerințe de bază Java SE, OOP și baze de date, aliniate direct competenței de programare Java, deși domeniul este software generalist."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/agent-turism-junior-1",
+    "title": "Agent Turism - Junior - Hunedoara",
+    "company": "CAFEL CO SRL",
+    "location": [
+      "Strada George Enescu 20, Hunedoara, Hunedoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T17:11:27.129Z",
+    "status": "scraped",
+    "tags": [
+      "marketing turistic",
+      "management turistic"
+    ],
+    "matchPercentage": 64,
+    "reason": "Job junior în turism unde cunoștințele de destinații, ofertare și management turistic se aplică direct, deși rolul este mai degrabă operațional decât de planificare."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/agent-turism-1200-1500-euro",
+    "title": "Agent Turism 1200-1500 euro",
+    "company": "PARALELA 45 SRL",
+    "location": [
+      "Calea Mosilor 201, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T17:05:29.509Z",
+    "status": "scraped",
+    "tags": [
+      "management turistic",
+      "marketing turistic"
+    ],
+    "matchPercentage": 63,
+    "reason": "Agent de turism la o agenție cunoscută, potrivit ca nivel de intrare în domeniul turistic, dar cu tasks de vânzări operaționale."
+  },
+  {
+    "url": "https://multijobs.ro/job/agent-consultant-in-turism/2953",
+    "title": "Agent/Consultant in turism",
+    "company": "ROXY TRAVEL FRIENDS SRL",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T17:07:21.784Z",
+    "status": "scraped",
+    "tags": [
+      "management turistic",
+      "marketing turistic"
+    ],
+    "matchPercentage": 62,
+    "reason": "Consultanță în turism, domeniu relevant pentru profilul de geografie, deși postul pare operațional de agenție și nu de management al destinației."
   }
 ]
