@@ -1,20 +1,37 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/operator-date-cadastru-junior-32",
-    "title": "Operator date cadastru junior",
-    "company": "GEOAGRI CADASTRU SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-geodez-topografie-si-cadastru-7",
+    "title": "Inginer geodez/topografie si cadastru",
+    "company": "ATI URBAN S.R.L.",
     "location": [
-      "sector 2, BUCURESTI, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T14:03:31.560Z",
+    "date": "2026-10-07T15:26:06.843Z",
     "status": "scraped",
     "tags": [
-      "cadastru edilitar",
-      "GIS"
+      "topografie",
+      "cadastru GIS"
     ],
-    "matchPercentage": 86,
-    "reason": "Operator date cadastru la nivel junior, potrivire directă cu domeniul și nivelul de intrare."
+    "matchPercentage": 92,
+    "reason": "Geodezie, topografie și cadastru asistat de GIS, potrivire directă cu competențele tale de topografie computerizată și cadastru edilitar."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-cadastru-gis-topograf",
+    "title": "Specialist Cadastru &amp; GIS / Topograf",
+    "company": "ELEVEN INVESTMENTS S.R.L.",
+    "location": [
+      "Strada Lucian Blaga, Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:15:09.296Z",
+    "status": "scraped",
+    "tags": [
+      "GIS",
+      "cadastru edilitar"
+    ],
+    "matchPercentage": 90,
+    "reason": "Postul combină cadastrul, topografia și GIS-ul, exact competențele tehnice de bază ale planului de învățământ."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3391567",
@@ -28,27 +45,27 @@
     "status": "scraped",
     "tags": [
       "topografie computerizată",
-      "cadastru edilitar"
+      "GPS"
     ],
-    "matchPercentage": 82,
-    "reason": "Tehnician topometrist fără experiență cerută, potrivit direct cu competențele de topografie și cadastru."
+    "matchPercentage": 88,
+    "reason": "Tehnician topometrist este exact în domeniul geomaticei, cu nivel de intrare (0 ani experiență)."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-cadastru-gis-topograf",
-    "title": "Specialist Cadastru &amp; GIS / Topograf",
-    "company": "ELEVEN INVESTMENTS S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/operator-date-cadastru-junior-32",
+    "title": "Operator date cadastru junior",
+    "company": "GEOAGRI CADASTRU SRL",
     "location": [
-      "Strada Lucian Blaga, Timișoara, Romania"
+      "sector 2, BUCURESTI, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:23:17.025Z",
+    "date": "2026-10-04T14:03:31.560Z",
     "status": "scraped",
     "tags": [
-      "GIS",
-      "topografie computerizată"
+      "cadastru edilitar",
+      "GIS"
     ],
-    "matchPercentage": 80,
-    "reason": "Post de specialist cadastru, GIS și topografie, potrivire directă cu competențele tehnice."
+    "matchPercentage": 87,
+    "reason": "Post de junior pentru prelucrare date cadastru, nivel potrivit și domeniu direct relevant."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-topo-cadastru-ancpi-full-time",
@@ -58,31 +75,31 @@
       "București, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:14:36.739Z",
+    "date": "2026-10-07T15:17:34.541Z",
+    "status": "scraped",
+    "tags": [
+      "cadastru edilitar",
+      "GIS"
+    ],
+    "matchPercentage": 86,
+    "reason": "Inginer topo-cadastru ANCPI folosește direct topografia computerizată, cadastrul și GIS-ul într-un rol de începător."
+  },
+  {
+    "url": "https://multijobs.ro/job/angajam-inginer-geodez-departament-cadastru/1343",
+    "title": "Angajam Inginer geodez - Departament cadastru",
+    "company": "SAGRADO GROUP S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:09:09.279Z",
     "status": "scraped",
     "tags": [
       "cadastru edilitar",
       "topografie computerizată"
     ],
-    "matchPercentage": 78,
-    "reason": "Inginer topo-cadastru ANCPI, domeniul se potrivește bine, cu mențiunea nivelului nearătat explicit."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-geodez-topografie-si-cadastru-7",
-    "title": "Inginer geodez/topografie si cadastru",
-    "company": "ATI URBAN S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:06:01.230Z",
-    "status": "scraped",
-    "tags": [
-      "topografie computerizată",
-      "cadastru edilitar"
-    ],
-    "matchPercentage": 76,
-    "reason": "Post de inginer geodez/topografie și cadastru, în domeniul potrivit, deși nivelul exact nu este specificat."
+    "matchPercentage": 82,
+    "reason": "Inginer geodez în departamentul de cadastru se potrivește direct cu geodezia, topografia și cadastrul asistat de GIS."
   },
   {
     "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
@@ -98,58 +115,7 @@
       "cadastru edilitar",
       "topografie computerizată"
     ],
-    "matchPercentage": 70,
-    "reason": "Activitate de cadastru-topografie-geodezie în birou, domeniul se potrivește, dar se cere experiență anterioară în documentații cadastrale."
-  },
-  {
-    "url": "https://www.globallogic.com/careers/mid-python-api-backend-engineer-irc301723/",
-    "title": "Mid Python API / Backend Engineer  IRC301723",
-    "company": "GLOBALLOGIC ROMANIA S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:06:40.636Z",
-    "status": "scraped",
-    "tags": [
-      "programare Python",
-      "programare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Inginer Python backend la nivel mid, folosește direct competența de programare în Python, dar într-un domeniu (automotive) doar tangențial geografiei."
-  },
-  {
-    "url": "https://www.globallogic.com/careers/mid-python-api-backend-engineer-mi-irc304035/",
-    "title": "Mid Python API / Backend Engineer (MI) IRC304035",
-    "company": "GLOBALLOGIC ROMANIA S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:06:08.645Z",
-    "status": "scraped",
-    "tags": [
-      "programare Python",
-      "programare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Inginer Python backend la nivel mid, folosește direct competența de programare în Python, dar într-un domeniu (automotive) doar tangențial geografiei."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-216",
-    "title": "Consultant Fonduri Europene",
-    "company": "ALVICOLI COMERŢ SRL",
-    "location": [
-      "Strada Decebal 82, 900178 Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:09:14.337Z",
-    "status": "scraped",
-    "tags": [
-      "finanțare europeană",
-      "proiecte-dezvoltare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Scrierea și coordonarea proiectelor cu finanțare europeană sunt competențe recunoscute în planul de învățământ, deși domeniul e doar parțial relevant."
+    "matchPercentage": 72,
+    "reason": "Activitate de birou în cadastru-topografie-geodezie se potrivește domeniului, dar se cere experiență anterioară în documentații cadastrale."
   }
 ]
