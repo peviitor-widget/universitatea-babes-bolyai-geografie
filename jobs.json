@@ -1,5 +1,56 @@
 [
   {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-cadastru-gis-topograf",
+    "title": "Specialist Cadastru &amp; GIS / Topograf",
+    "company": "ELEVEN INVESTMENTS S.R.L.",
+    "location": [
+      "Strada Lucian Blaga, Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:16:47.474Z",
+    "status": "scraped",
+    "tags": [
+      "GIS",
+      "topografie cadastru"
+    ],
+    "matchPercentage": 80,
+    "reason": "Postul combină cadastrul, topografia și GIS-ul, adică exact nucleul competențelor tehnice, la nivel de specialist."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/operator-date-cadastru-junior-32",
+    "title": "Operator date cadastru junior",
+    "company": "GEOAGRI CADASTRU SRL",
+    "location": [
+      "sector 2, BUCURESTI, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:18:59.117Z",
+    "status": "scraped",
+    "tags": [
+      "topografie cadastru",
+      "GIS"
+    ],
+    "matchPercentage": 78,
+    "reason": "Poziție explicit junior de operare date cadastru, potrivită ca nivel și în domeniul cadastrului/geodeziei."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-topo-cadastru-ancpi-full-time",
+    "title": "Inginer topo-cadastru ANCPI full time",
+    "company": "GEODATA SERVICES S.R.L.",
+    "location": [
+      "București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:23:46.751Z",
+    "status": "scraped",
+    "tags": [
+      "topografie cadastru",
+      "GIS"
+    ],
+    "matchPercentage": 76,
+    "reason": "Inginerie topo-cadastrală ANCPI, domeniu direct relevant pentru topografia computerizată și cadastrul edilitar asistat de GIS."
+  },
+  {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-geodez-topografie-si-cadastru-7",
     "title": "Inginer geodez/topografie si cadastru",
     "company": "ATI URBAN S.R.L.",
@@ -10,79 +61,11 @@
     "date": "2026-10-07T15:26:06.843Z",
     "status": "scraped",
     "tags": [
-      "topografie",
-      "cadastru GIS"
-    ],
-    "matchPercentage": 92,
-    "reason": "Geodezie, topografie și cadastru asistat de GIS, potrivire directă cu competențele tale de topografie computerizată și cadastru edilitar."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-cadastru-gis-topograf",
-    "title": "Specialist Cadastru &amp; GIS / Topograf",
-    "company": "ELEVEN INVESTMENTS S.R.L.",
-    "location": [
-      "Strada Lucian Blaga, Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:15:09.296Z",
-    "status": "scraped",
-    "tags": [
-      "GIS",
-      "cadastru edilitar"
-    ],
-    "matchPercentage": 90,
-    "reason": "Postul combină cadastrul, topografia și GIS-ul, exact competențele tehnice de bază ale planului de învățământ."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3391567",
-    "title": "TEHNICIAN TOPOMETRIST",
-    "company": "DMA TOPOGRAFIE S.R.L.",
-    "location": [
-      "Bobalna, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:59:30.597Z",
-    "status": "scraped",
-    "tags": [
-      "topografie computerizată",
-      "GPS"
-    ],
-    "matchPercentage": 88,
-    "reason": "Tehnician topometrist este exact în domeniul geomaticei, cu nivel de intrare (0 ani experiență)."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/operator-date-cadastru-junior-32",
-    "title": "Operator date cadastru junior",
-    "company": "GEOAGRI CADASTRU SRL",
-    "location": [
-      "sector 2, BUCURESTI, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:03:31.560Z",
-    "status": "scraped",
-    "tags": [
-      "cadastru edilitar",
+      "topografie cadastru",
       "GIS"
     ],
-    "matchPercentage": 87,
-    "reason": "Post de junior pentru prelucrare date cadastru, nivel potrivit și domeniu direct relevant."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-topo-cadastru-ancpi-full-time",
-    "title": "Inginer topo-cadastru ANCPI full time",
-    "company": "GEODATA SERVICES S.R.L.",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:17:34.541Z",
-    "status": "scraped",
-    "tags": [
-      "cadastru edilitar",
-      "GIS"
-    ],
-    "matchPercentage": 86,
-    "reason": "Inginer topo-cadastru ANCPI folosește direct topografia computerizată, cadastrul și GIS-ul într-un rol de începător."
+    "matchPercentage": 75,
+    "reason": "Inginerie geodezică, topografie și cadastru, domeniu de bază al specializării, cu profil de intrare în firmă de urbanism/GIS."
   },
   {
     "url": "https://multijobs.ro/job/angajam-inginer-geodez-departament-cadastru/1343",
@@ -95,11 +78,11 @@
     "date": "2026-10-07T15:09:09.279Z",
     "status": "scraped",
     "tags": [
-      "cadastru edilitar",
-      "topografie computerizată"
+      "topografie cadastru",
+      "GIS"
     ],
-    "matchPercentage": 82,
-    "reason": "Inginer geodez în departamentul de cadastru se potrivește direct cu geodezia, topografia și cadastrul asistat de GIS."
+    "matchPercentage": 74,
+    "reason": "Inginer geodez în departament de cadastru, domeniu de specialitate potrivit profilului de geodezie-topografie-cadastru."
   },
   {
     "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
@@ -109,13 +92,46 @@
       "Pitești, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T14:48:20.786Z",
+    "date": "2026-10-08T15:14:56.513Z",
     "status": "scraped",
     "tags": [
-      "cadastru edilitar",
-      "topografie computerizată"
+      "topografie cadastru",
+      "GIS"
     ],
     "matchPercentage": 72,
-    "reason": "Activitate de birou în cadastru-topografie-geodezie se potrivește domeniului, dar se cere experiență anterioară în documentații cadastrale."
+    "reason": "Activitate de cadastru-topografie-geodezie în birou, direct relevantă pentru competențele de topografie computerizată și cadastru asistat de GIS, dar cere experiență practică anterioară."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/urbanist-peisagist-cu-drept-de-semnatura",
+    "title": "Urbanist/Peisagist cu drept de semnatura",
+    "company": "ACTA ARCHITECTURE SI URBANISM S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:19:44.635Z",
+    "status": "scraped",
+    "tags": [
+      "amenajare teritorială",
+      "urbanism"
+    ],
+    "matchPercentage": 70,
+    "reason": "Urbanismul și peisagistica se încadrează direct în domeniul amenajării teritoriului, chiar dacă cerința de drept de semnătură presupune calificare specifică."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/expert-consultant-proiecte-1",
+    "title": "EXPERT/CONSULTANT proiecte",
+    "company": "ASOCIATIA GRUPULUI DE PRODUCATORI CONSORTIU DE DEZVOLTARE RURALA BORCEA-JEGALIA SRL",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:25:49.282Z",
+    "status": "scraped",
+    "tags": [
+      "finanțare europeană"
+    ],
+    "matchPercentage": 62,
+    "reason": "Consultanță pe proiecte de dezvoltare locală/rurală, probabil cu finanțare europeană, relevantă pentru competența de coordonare a proiectelor cu finanțare europeană."
   }
 ]
