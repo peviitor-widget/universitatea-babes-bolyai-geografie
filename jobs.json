@@ -1,22 +1,5 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-cadastru-gis-topograf",
-    "title": "Specialist Cadastru &amp; GIS / Topograf",
-    "company": "ELEVEN INVESTMENTS S.R.L.",
-    "location": [
-      "Strada Lucian Blaga, Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-09T15:10:05.570Z",
-    "status": "scraped",
-    "tags": [
-      "GIS",
-      "cadastru"
-    ],
-    "matchPercentage": 86,
-    "reason": "Specialist cadastru & GIS / topograf, combinație directă de GIS și cadastru."
-  },
-  {
     "url": "https://dreamjobs.ro/ro/job/dma-topografie/asistent-tehnic-in-topografie",
     "title": "Asistent Tehnic în Topografie",
     "company": "DMA TOPOGRAFIE S.R.L.",
@@ -30,25 +13,93 @@
       "topografie",
       "cadastru"
     ],
-    "matchPercentage": 85,
-    "reason": "Asistent tehnic în topografie și cadastru cu prelucrare date, vectorizare CAD și lucru pe teren, potrivit competențelor de topografie și cadastru."
+    "matchPercentage": 90,
+    "reason": "Asistent tehnic în topografie cu documentații cadastrale, CAD și ridicări teren, entry-level potrivit."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3391567",
-    "title": "TEHNICIAN TOPOMETRIST",
-    "company": "DMA TOPOGRAFIE S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-cadastru-gis-topograf",
+    "title": "Specialist Cadastru &amp; GIS / Topograf",
+    "company": "ELEVEN INVESTMENTS S.R.L.",
     "location": [
-      "Bobalna, Romania"
+      "Strada Lucian Blaga, Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:46:10.829Z",
+    "date": "2026-10-09T15:10:05.570Z",
     "status": "scraped",
     "tags": [
-      "topografie",
-      "geodezie"
+      "GIS",
+      "cadastru"
     ],
-    "matchPercentage": 82,
-    "reason": "Tehnician topometrist fără experiență cerută, direct pe măsurători topografice și cadastru."
+    "matchPercentage": 90,
+    "reason": "Specialist cadastru & GIS / topograf, combină GIS și topografia cerute."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/agent-de-turism-cluj-napoca-1",
+    "title": "Agent de turism - Cluj Napoca",
+    "company": "AGENŢIA DE TURISM ŞI TRANZACŢII-A.T.T. SRL",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:35.942Z",
+    "status": "scraped",
+    "tags": [
+      "turism",
+      "destinatii"
+    ],
+    "matchPercentage": 90,
+    "reason": "Agent de turism, se potrivește direct domeniului 'Turism și managementul destinațiilor', nivel junior/entry potrivit."
+  },
+  {
+    "url": "https://fjobs.ro/job/agent-turism-cu-experienta/",
+    "title": "AGENT TURISM CU…",
+    "company": "TROPIKAL TOURS INTERNATIONAL SRL",
+    "location": [
+      "Cluj, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:05.886Z",
+    "status": "scraped",
+    "tags": [
+      "turism",
+      "destinatii"
+    ],
+    "matchPercentage": 90,
+    "reason": "Agent de turism cu experiență, relevanță directă pentru turism și nivel potrivit (mid/junior)."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-turism-96",
+    "title": "Consultant Turism",
+    "company": "ELGINI TOUR SRL",
+    "location": [
+      "Brașov, Romania,București, Romania,Craiova, Romania,Cluj-Napoca, Romania,Constanta, Romania,Suceava, Romania,Iași, Romania,Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:31:09.407Z",
+    "status": "scraped",
+    "tags": [
+      "turism",
+      "destinatii"
+    ],
+    "matchPercentage": 90,
+    "reason": "Consultant turism, domeniu direct relevant pentru specializarea în turism, nivel potrivit pentru absolvent."
+  },
+  {
+    "url": "https://multijobs.ro/job/agent-consultant-in-turism/2953",
+    "title": "Agent/Consultant in turism",
+    "company": "ROXY TRAVEL FRIENDS SRL",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:30:27.254Z",
+    "status": "scraped",
+    "tags": [
+      "turism",
+      "destinatii"
+    ],
+    "matchPercentage": 90,
+    "reason": "Agent/consultant în turism, se potrivește perfect domeniului turismului și nivelului entry/junior."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-topo-cadastru-ancpi-full-time",
@@ -58,48 +109,14 @@
       "București, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:26:51.524Z",
+    "date": "2026-10-12T17:26:02.355Z",
     "status": "scraped",
     "tags": [
       "topografie",
       "cadastru"
     ],
-    "matchPercentage": 82,
-    "reason": "Inginer topo-cadastru ANCPI full time, direct pe topografie și cadastru."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-geodez-topografie-si-cadastru-7",
-    "title": "Inginer geodez/topografie si cadastru",
-    "company": "ATI URBAN S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:20:05.408Z",
-    "status": "scraped",
-    "tags": [
-      "geodezie",
-      "cadastru"
-    ],
-    "matchPercentage": 82,
-    "reason": "Inginer geodez/topografie si cadastru, potrivire directă cu competențele geomatice."
-  },
-  {
-    "url": "https://multijobs.ro/job/angajam-inginer-geodez-departament-cadastru/1343",
-    "title": "Angajam Inginer geodez - Departament cadastru",
-    "company": "SAGRADO GROUP S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:04:53.717Z",
-    "status": "scraped",
-    "tags": [
-      "geodezie",
-      "cadastru"
-    ],
-    "matchPercentage": 80,
-    "reason": "Inginer geodez pe departament cadastru, direct pe geodezie și cadastru."
+    "matchPercentage": 88,
+    "reason": "Inginer topo-cadastru, măsurători și documentații în domeniul tău direct."
   },
   {
     "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
@@ -115,8 +132,76 @@
       "cadastru",
       "topografie"
     ],
-    "matchPercentage": 72,
-    "reason": "Job de cadastru-topografie-geodezie care folosește direct competențele de topografie computerizată și cadastru asistat de GIS, nivel accesibil."
+    "matchPercentage": 85,
+    "reason": "Personal cadastru-topografie-geodezie cu documentații cadastrale, potrivit studiilor."
+  },
+  {
+    "url": "https://multijobs.ro/job/angajam-inginer-geodez-departament-cadastru/1343",
+    "title": "Angajam Inginer geodez - Departament cadastru",
+    "company": "SAGRADO GROUP S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-11T15:04:53.717Z",
+    "status": "scraped",
+    "tags": [
+      "geodezie",
+      "cadastru"
+    ],
+    "matchPercentage": 85,
+    "reason": "Inginer geodez în departamentul cadastru, aliniat studiilor de geodezie-topografie."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-geodez-topografie-si-cadastru-7",
+    "title": "Inginer geodez/topografie si cadastru",
+    "company": "ATI URBAN S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-10T14:20:05.408Z",
+    "status": "scraped",
+    "tags": [
+      "geodezie",
+      "topografie"
+    ],
+    "matchPercentage": 85,
+    "reason": "Inginer geodez/topografie și cadastru, potrivire directă cu competențele."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3386052",
+    "title": "AGENT DE TURISM",
+    "company": "SKYLINE ENGINEERING S.R.L.",
+    "location": [
+      "Vaslui, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:30:22.133Z",
+    "status": "scraped",
+    "tags": [
+      "turism",
+      "destinatii"
+    ],
+    "matchPercentage": 85,
+    "reason": "Agent de turism, fără experiență cerută, nivel entry-level foarte potrivit pentru student/absolvent."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/agent-de-turism-baia-mare-5",
+    "title": "AGENT DE TURISM - BAIA MARE",
+    "company": "MARA INTERNATIONAL TOUR SRL",
+    "location": [
+      "Bulevardul Unirii 5, Baia Mare, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:29:43.678Z",
+    "status": "scraped",
+    "tags": [
+      "turism",
+      "destinatii"
+    ],
+    "matchPercentage": 85,
+    "reason": "Agent de turism, rol entry-level în domeniul turismului, se potrivește direct competențelor de specialitate."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/operator-date-cadastru-junior-32",
@@ -132,24 +217,7 @@
       "cadastru",
       "GIS"
     ],
-    "matchPercentage": 70,
-    "reason": "Operator date cadastru junior, nivel entry-level pe prelucrare date de cadastru."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/urbanist-peisagist-cu-drept-de-semnatura",
-    "title": "Urbanist/Peisagist cu drept de semnatura",
-    "company": "ACTA ARCHITECTURE SI URBANISM S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:50:15.198Z",
-    "status": "scraped",
-    "tags": [
-      "amenajare teritorială",
-      "urbanism"
-    ],
-    "matchPercentage": 64,
-    "reason": "Urbanism și amenajare teritorială se potrivesc parțial, dar dreptul de semnătură cere calificare/experiență superioară."
+    "matchPercentage": 80,
+    "reason": "Operator date cadastru junior, nivel entry și domeniu potrivit."
   }
 ]
