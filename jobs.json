@@ -1,5 +1,39 @@
 [
   {
+    "url": "https://dreamjobs.ro/ro/job/dma-topografie/asistent-tehnic-in-topografie",
+    "title": "Asistent Tehnic în Topografie",
+    "company": "DMA TOPOGRAFIE S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-14T13:41:21.931Z",
+    "status": "scraped",
+    "tags": [
+      "topografie",
+      "GIS"
+    ],
+    "matchPercentage": 95,
+    "reason": "Asistent tehnic în topografie folosește direct topografia computerizată, GPS, cadastru și lucrul cu date spațiale - nivel entry-level potrivit."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-cadastru-gis-topograf",
+    "title": "Specialist Cadastru &amp; GIS / Topograf",
+    "company": "ELEVEN INVESTMENTS S.R.L.",
+    "location": [
+      "Strada Lucian Blaga, Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-14T13:40:05.865Z",
+    "status": "scraped",
+    "tags": [
+      "GIS",
+      "topografie computerizată"
+    ],
+    "matchPercentage": 90,
+    "reason": "Specialist cadastru, GIS și topograf, potrivire excelentă cu competențele tehnice de geomatică."
+  },
+  {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-geodez-topografie-si-cadastru-7",
     "title": "Inginer geodez/topografie si cadastru",
     "company": "ATI URBAN S.R.L.",
@@ -11,44 +45,10 @@
     "status": "scraped",
     "tags": [
       "topografie computerizată",
-      "cadastru GIS"
-    ],
-    "matchPercentage": 88,
-    "reason": "Inginer geodez/topografie și cadastru folosește direct competențele de topografie computerizată, GPS și cadastru GIS."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-cadastru-gis-topograf",
-    "title": "Specialist Cadastru &amp; GIS / Topograf",
-    "company": "ELEVEN INVESTMENTS S.R.L.",
-    "location": [
-      "Strada Lucian Blaga, Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-09T15:10:05.570Z",
-    "status": "scraped",
-    "tags": [
-      "GIS",
-      "Cadastru"
-    ],
-    "matchPercentage": 88,
-    "reason": "Specialist Cadastru & GIS/Topograf, combină direct GIS, cadastru și topografie."
-  },
-  {
-    "url": "https://dreamjobs.ro/ro/job/dma-topografie/asistent-tehnic-in-topografie",
-    "title": "Asistent Tehnic în Topografie",
-    "company": "DMA TOPOGRAFIE S.R.L.",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T15:47:07.173Z",
-    "status": "scraped",
-    "tags": [
-      "Topografie",
-      "Cadastru"
+      "cadastru edilitar"
     ],
     "matchPercentage": 85,
-    "reason": "Post tehnic de topografie/cadastru cu vectorizare CAD și lucru pe teren, potrivit pentru început de carieră."
+    "reason": "Inginer geodez/topografie și cadastru, potrivire directă cu competențele de topografie și cadastru GIS."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3391567",
@@ -61,11 +61,45 @@
     "date": "2026-10-13T15:40:11.221Z",
     "status": "scraped",
     "tags": [
-      "Topografie",
-      "Măsurători"
+      "topografie computerizată",
+      "GPS"
     ],
-    "matchPercentage": 80,
-    "reason": "Tehnician topometrist, fără experiență, folosește direct măsurători și topografie."
+    "matchPercentage": 85,
+    "reason": "Tehnician topometrist fără experiență necesară, potrivire directă cu topografia și cadastrul."
+  },
+  {
+    "url": "https://multijobs.ro/job/angajam-inginer-geodez-departament-cadastru/1343",
+    "title": "Angajam Inginer geodez - Departament cadastru",
+    "company": "SAGRADO GROUP S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-14T13:40:12.314Z",
+    "status": "scraped",
+    "tags": [
+      "cadastru edilitar",
+      "GIS"
+    ],
+    "matchPercentage": 85,
+    "reason": "Inginer geodez în departamentul de cadastru, potrivire directă cu competențele de cadastru și GIS."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/operator-date-cadastru-junior-32",
+    "title": "Operator date cadastru junior",
+    "company": "GEOAGRI CADASTRU SRL",
+    "location": [
+      "sector 2, BUCURESTI, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-14T13:35:57.834Z",
+    "status": "scraped",
+    "tags": [
+      "cadastru edilitar",
+      "GIS"
+    ],
+    "matchPercentage": 85,
+    "reason": "Operator date cadastru junior, nivel entry-level și domeniu direct relevant pentru geografie."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-topo-cadastru-ancpi-full-time",
@@ -78,28 +112,11 @@
     "date": "2026-10-13T16:04:24.902Z",
     "status": "scraped",
     "tags": [
-      "Topografie",
-      "Cadastru"
+      "topografie computerizată",
+      "cadastru edilitar"
     ],
-    "matchPercentage": 80,
-    "reason": "Inginer topo-cadastru pentru ANCPI, potrivire directă pe topografie și cadastru."
-  },
-  {
-    "url": "https://multijobs.ro/job/angajam-inginer-geodez-departament-cadastru/1343",
-    "title": "Angajam Inginer geodez - Departament cadastru",
-    "company": "SAGRADO GROUP S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:04:53.717Z",
-    "status": "scraped",
-    "tags": [
-      "Topografie",
-      "Cadastru"
-    ],
-    "matchPercentage": 78,
-    "reason": "Inginer geodez în departamentul de cadastru, potrivire pe topografie și cadastru."
+    "matchPercentage": 85,
+    "reason": "Inginer topo-cadastru ANCPI, potrivire directă cu topografia, cadastrul și GIS."
   },
   {
     "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
@@ -112,69 +129,10 @@
     "date": "2026-10-11T15:09:06.244Z",
     "status": "scraped",
     "tags": [
-      "Cadastru",
-      "Topografie"
+      "topografie computerizată",
+      "cadastru edilitar"
     ],
-    "matchPercentage": 76,
-    "reason": "Personal cadastru-topografie-geodezie pentru birou, potrivit competențelor de cadastru."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/operator-date-cadastru-junior-32",
-    "title": "Operator date cadastru junior",
-    "company": "GEOAGRI CADASTRU SRL",
-    "location": [
-      "sector 2, BUCURESTI, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T16:01:35.027Z",
-    "status": "scraped",
-    "tags": [
-      "Cadastru",
-      "GIS"
-    ],
-    "matchPercentage": 72,
-    "reason": "Operator date cadastru junior, nivel potrivit și domeniu relevant de cadastru."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/agent-turism-bucuresti-6",
-    "title": "Agent turism Bucuresti",
-    "company": "DIRECT BOOKING SRL",
-    "location": [
-      "Calea Grivitei 180, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T16:05:06.625Z",
-    "status": "scraped",
-    "tags": [],
-    "matchPercentage": 62,
-    "reason": "Agent de turism în agenție, domeniu turistic potrivit, dar sarcinile sunt preponderent comerciale și de rezervări."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/agent-de-turism-baia-mare-5",
-    "title": "AGENT DE TURISM - BAIA MARE",
-    "company": "MARA INTERNATIONAL TOUR SRL",
-    "location": [
-      "Bulevardul Unirii 5, Baia Mare, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T15:55:37.118Z",
-    "status": "scraped",
-    "tags": [],
-    "matchPercentage": 62,
-    "reason": "Agent de turism într-agenție, domeniu turistic relevant, dar atribuții comercial-clienți."
-  },
-  {
-    "url": "https://fjobs.ro/job/agent-turism-cu-experienta/",
-    "title": "AGENT TURISM CU…",
-    "company": "TROPIKAL TOURS INTERNATIONAL SRL",
-    "location": [
-      "Cluj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T15:57:11.373Z",
-    "status": "scraped",
-    "tags": [],
-    "matchPercentage": 60,
-    "reason": "Agent de turism în agenție, domeniu potrivit, dar cere 2 ani experiență și accent pe vânzări/comunicare."
+    "matchPercentage": 85,
+    "reason": "Personal pentru cadastru, topografie și geodezie, domeniu de bază al competențelor."
   }
 ]
