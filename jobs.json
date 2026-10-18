@@ -1,57 +1,38 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3413687",
-    "title": "HIDROLOG",
-    "company": "ABA TURISM SRL",
+    "url": "https://dreamjobs.ro/ro/job/dma-topografie/asistent-tehnic-in-topografie",
+    "title": "Asistent Tehnic în Topografie",
+    "company": "DMA TOPOGRAFIE S.R.L.",
     "location": [
-      "Ramnicu valcea",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:18.822Z",
+    "date": "2026-10-17T12:15:15.810Z",
     "status": "scraped",
     "tags": [
-      "managementul riscurilor",
-      "prognoza hidrologică"
+      "topografie computerizată",
+      "cadastru edilitar"
     ],
-    "matchPercentage": 88,
-    "reason": "Post de hidrolog la nivel de intrare (0 ani experiență), potrivit direct pentru managementul riscurilor hidrice și prognoza hidrologică."
+    "matchPercentage": 92,
+    "reason": "Topografie și cadastru în Cluj-Napoca, entry-level, cu vectorizare CAD, documentații ANCPI/OCPI și ridicări topografice — potrivire directă cu competențele de topografie computerizată și cadastru asistat de GIS."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-manager-agentie-de-turism-8",
-    "title": "Asistent Manager Agenție de Turism",
-    "company": "ALFA STAR IMPEX SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/junior-sales-coordinator",
+    "title": "Junior Sales Coordinator",
+    "company": "ALPIN RESORT GCC S.R.L.",
     "location": [
-      "Timișoara",
+      "Poiana Brașov",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:22.866Z",
+    "date": "2026-10-17T12:22:50.064Z",
     "status": "scraped",
     "tags": [
       "management turistic",
-      "turism"
+      "structuri de primire"
     ],
-    "matchPercentage": 62,
-    "reason": "Agenție de turism, domeniu relevant, dar rolul pare administrativ-generalist fără sarcini tehnice de amenajare turistică."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/agent-de-turism-301",
-    "title": "Agent de turism",
-    "company": "INTER-TOUR SRL",
-    "location": [
-      "Bulevardul Alexandru cel Bun 1",
-      "Bacau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:15.074Z",
-    "status": "scraped",
-    "tags": [
-      "management turistic",
-      "marketing turistic"
-    ],
-    "matchPercentage": 62,
-    "reason": "Job în domeniul turismului, la nivel de accesibilitate mare pentru absolvenți, deși sarcinile sunt preponderent comerciale."
+    "matchPercentage": 68,
+    "reason": "Rol junior în turism la un resort din Poiana Brașov: gestionarea grupurilor, tarifelor și evenimentelor în sistem hotelier – relevant pentru managementul structurilor de primire turistică, deși mai degrabă operațional decât strategic."
   }
 ]
