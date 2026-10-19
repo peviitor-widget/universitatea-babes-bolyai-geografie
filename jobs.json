@@ -14,25 +14,42 @@
       "topografie computerizată",
       "cadastru edilitar"
     ],
-    "matchPercentage": 92,
-    "reason": "Topografie și cadastru în Cluj-Napoca, entry-level, cu vectorizare CAD, documentații ANCPI/OCPI și ridicări topografice — potrivire directă cu competențele de topografie computerizată și cadastru asistat de GIS."
+    "matchPercentage": 88,
+    "reason": "Post entry-level de topografie și cadastru cu lucrăridin teren și prelucrare CAD, potrivit direct pentru competențele de topografie computerizată și cadastru asistat de GIS."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/junior-sales-coordinator",
-    "title": "Junior Sales Coordinator",
-    "company": "ALPIN RESORT GCC S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-instalari-gps-25",
+    "title": "Tehnician Instalari GPS",
+    "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
     "location": [
-      "Poiana Brașov",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:22:50.064Z",
+    "date": "2026-10-17T12:13:54.793Z",
     "status": "scraped",
     "tags": [
-      "management turistic",
-      "structuri de primire"
+      "GPS",
+      "topografie"
     ],
-    "matchPercentage": 68,
-    "reason": "Rol junior în turism la un resort din Poiana Brașov: gestionarea grupurilor, tarifelor și evenimentelor în sistem hotelier – relevant pentru managementul structurilor de primire turistică, deși mai degrabă operațional decât strategic."
+    "matchPercentage": 75,
+    "reason": "Sarcinile legate de instalări GPS se potrivesc direct cu competențele de topografie computerizată și GPS din domeniul Geomatică."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3416581",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "ADMINISTRATIA NATIONALA DE METEOROLOGIE R A BUCURESTI DIRECTIA METEOROLOGICA REGIONALA OLTENIA SUCURSALA CRAIOVA",
+    "location": [
+      "Municipiul tulcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:18:54.221Z",
+    "status": "scraped",
+    "tags": [
+      "prognoza meteorologică",
+      "managementul riscurilor"
+    ],
+    "matchPercentage": 72,
+    "reason": "Inspector la Administrația Națională de Meteorologie — potrivire directă cu prognoza meteorologică și managementul hazardelor, nivel sub 3 ani experiență."
   }
 ]
