@@ -15,41 +15,24 @@
       "cadastru edilitar"
     ],
     "matchPercentage": 88,
-    "reason": "Post entry-level de topografie și cadastru cu lucrăridin teren și prelucrare CAD, potrivit direct pentru competențele de topografie computerizată și cadastru asistat de GIS."
+    "reason": "Asistent tehnic în topografie la Cluj-Napoca: cadastru, CAD, măsurători teren, OCPI - potrivește direct competențele de topografie computerizată și cadastru asistat de GIS, la nivel entry-level."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-instalari-gps-25",
-    "title": "Tehnician Instalari GPS",
-    "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
+    "url": "https://multijobs.ro/job/consultant-turism/2050",
+    "title": "Consultant Turism",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:13:54.793Z",
+    "date": "2026-10-17T12:11:46.322Z",
     "status": "scraped",
     "tags": [
-      "GPS",
-      "topografie"
+      "management turistic",
+      "marketing turistic"
     ],
-    "matchPercentage": 75,
-    "reason": "Sarcinile legate de instalări GPS se potrivesc direct cu competențele de topografie computerizată și GPS din domeniul Geomatică."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3416581",
-    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "ADMINISTRATIA NATIONALA DE METEOROLOGIE R A BUCURESTI DIRECTIA METEOROLOGICA REGIONALA OLTENIA SUCURSALA CRAIOVA",
-    "location": [
-      "Municipiul tulcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:18:54.221Z",
-    "status": "scraped",
-    "tags": [
-      "prognoza meteorologică",
-      "managementul riscurilor"
-    ],
-    "matchPercentage": 72,
-    "reason": "Inspector la Administrația Națională de Meteorologie — potrivire directă cu prognoza meteorologică și managementul hazardelor, nivel sub 3 ani experiență."
+    "matchPercentage": 65,
+    "reason": "Consultanța în turism se încadrează în domeniul turismului și managementului destinațiilor, deși lipsesc detalii despre nivel și sarcini."
   }
 ]
