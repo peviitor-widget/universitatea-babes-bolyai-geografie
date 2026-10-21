@@ -11,28 +11,63 @@
     "date": "2026-10-17T12:15:15.810Z",
     "status": "scraped",
     "tags": [
-      "topografie computerizată",
-      "cadastru edilitar"
+      "topografie computerizata",
+      "cadastru"
     ],
-    "matchPercentage": 88,
-    "reason": "Asistent tehnic în topografie la Cluj-Napoca: cadastru, CAD, măsurători teren, OCPI - potrivește direct competențele de topografie computerizată și cadastru asistat de GIS, la nivel entry-level."
+    "matchPercentage": 93,
+    "reason": "Asistent tehnic în topografie în Cluj-Napoca: prelucrare date de teren, vectorizare măsurători în CAD (AutoCAD, TopoLT, BricsCAD), documentații de cadastru, legături cu ANCPI/OCPI — nivel entry și exact specializarea topografie computerizată/cadastru."
   },
   {
-    "url": "https://multijobs.ro/job/consultant-turism/2050",
-    "title": "Consultant Turism",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
+    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
-      "Iași",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-20T10:59:04.441Z",
+    "status": "scraped",
+    "tags": [
+      "marketing turistic",
+      "analize statistice"
+    ],
+    "matchPercentage": 65,
+    "reason": "Stagiu de studii de marketing cu accent pe turism, analiza de date si sinteze de raport, nivel potrivit insa domeniul este partial (cercetare de piata generalista, nu neaprat teritoriala)."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
+    "title": "EXPERT IMPLEMENTARE",
+    "company": "AGENŢIA DE DEZVOLTARE LOCALĂ ORADEA S.A.",
+    "location": [
+      "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:11:46.322Z",
+    "date": "2026-10-17T12:19:01.168Z",
     "status": "scraped",
     "tags": [
-      "management turistic",
-      "marketing turistic"
+      "finantare europeana",
+      "dezvoltare regionala"
     ],
-    "matchPercentage": 65,
-    "reason": "Consultanța în turism se încadrează în domeniul turismului și managementului destinațiilor, deși lipsesc detalii despre nivel și sarcini."
+    "matchPercentage": 64,
+    "reason": "Verificarea documentelor si monitorizarea proiectelor publice cu finantare europeana se apropie de coordonarea proiectelor de dezvoltare, dar postul este in sectorul sanatatii la nivel de organism intermediar."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3416581",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "ADMINISTRATIA NATIONALA DE METEOROLOGIE R A BUCURESTI DIRECTIA METEOROLOGICA REGIONALA OLTENIA SUCURSALA CRAIOVA",
+    "location": [
+      "Municipiul tulcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:18:54.221Z",
+    "status": "scraped",
+    "tags": [
+      "prognoza meteorologica",
+      "managementul riscurilor"
+    ],
+    "matchPercentage": 62,
+    "reason": "Post in administratia meteorologica nationala cu nivel entry-level (<3 ani) si studii superioare, insa sarcinile sunt de inspectie tehnica a procesului operational, doar tangential legate de prognoza si hazarduri."
   }
 ]
