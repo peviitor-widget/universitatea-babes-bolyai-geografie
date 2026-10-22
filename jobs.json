@@ -11,63 +11,27 @@
     "date": "2026-10-17T12:15:15.810Z",
     "status": "scraped",
     "tags": [
-      "topografie computerizata",
+      "topografie",
       "cadastru"
     ],
-    "matchPercentage": 93,
-    "reason": "Asistent tehnic în topografie în Cluj-Napoca: prelucrare date de teren, vectorizare măsurători în CAD (AutoCAD, TopoLT, BricsCAD), documentații de cadastru, legături cu ANCPI/OCPI — nivel entry și exact specializarea topografie computerizată/cadastru."
+    "matchPercentage": 90,
+    "reason": "Post entry-level de topografie și cadastru, cu prelucrare de date în CAD și lucru pe teren, direct relevant."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
-    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management",
+    "title": "Working Student - Waste Management",
+    "company": "ROBERT BOSCH SRL",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-10-20T10:59:04.441Z",
+    "date": "2026-10-21T11:31:30.699Z",
     "status": "scraped",
     "tags": [
-      "marketing turistic",
-      "analize statistice"
+      "management de mediu",
+      "legislație mediu"
     ],
     "matchPercentage": 65,
-    "reason": "Stagiu de studii de marketing cu accent pe turism, analiza de date si sinteze de raport, nivel potrivit insa domeniul este partial (cercetare de piata generalista, nu neaprat teritoriala)."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
-    "title": "EXPERT IMPLEMENTARE",
-    "company": "AGENŢIA DE DEZVOLTARE LOCALĂ ORADEA S.A.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:01.168Z",
-    "status": "scraped",
-    "tags": [
-      "finantare europeana",
-      "dezvoltare regionala"
-    ],
-    "matchPercentage": 64,
-    "reason": "Verificarea documentelor si monitorizarea proiectelor publice cu finantare europeana se apropie de coordonarea proiectelor de dezvoltare, dar postul este in sectorul sanatatii la nivel de organism intermediar."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3416581",
-    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "ADMINISTRATIA NATIONALA DE METEOROLOGIE R A BUCURESTI DIRECTIA METEOROLOGICA REGIONALA OLTENIA SUCURSALA CRAIOVA",
-    "location": [
-      "Municipiul tulcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:18:54.221Z",
-    "status": "scraped",
-    "tags": [
-      "prognoza meteorologica",
-      "managementul riscurilor"
-    ],
-    "matchPercentage": 62,
-    "reason": "Post in administratia meteorologica nationala cu nivel entry-level (<3 ani) si studii superioare, insa sarcinile sunt de inspectie tehnica a procesului operational, doar tangential legate de prognoza si hazarduri."
+    "reason": "Working student în managementul deșeurilor, relevant parțial pentru managementul de mediu și legislația de mediu."
   }
 ]
