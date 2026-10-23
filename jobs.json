@@ -14,8 +14,8 @@
       "topografie",
       "cadastru"
     ],
-    "matchPercentage": 90,
-    "reason": "Post entry-level de topografie și cadastru, cu prelucrare de date în CAD și lucru pe teren, direct relevant."
+    "matchPercentage": 92,
+    "reason": "Post entry-level de asistent topografie, cu activități directe de cadastru, prelucrare CAD și legătură cu ANCPI/OCPI."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management",
@@ -25,13 +25,13 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-21T11:31:30.699Z",
+    "date": "2026-10-22T11:31:25.131Z",
     "status": "scraped",
     "tags": [
       "management de mediu",
-      "legislație mediu"
+      "dezvoltare durabilă"
     ],
-    "matchPercentage": 65,
-    "reason": "Working student în managementul deșeurilor, relevant parțial pentru managementul de mediu și legislația de mediu."
+    "matchPercentage": 62,
+    "reason": "Stagiu în managementul deșeurilor, apropiat de competențele de management de mediu și dezvoltare durabilă."
   }
 ]
