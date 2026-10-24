@@ -11,27 +11,28 @@
     "date": "2026-10-17T12:15:15.810Z",
     "status": "scraped",
     "tags": [
-      "topografie",
+      "topografie computerizată",
       "cadastru"
     ],
-    "matchPercentage": 92,
-    "reason": "Post entry-level de asistent topografie, cu activități directe de cadastru, prelucrare CAD și legătură cu ANCPI/OCPI."
+    "matchPercentage": 85,
+    "reason": "Post entry-level de asistent în topografie și cadastru, folosind direct competențele de topografie computerizată și CAD."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management",
-    "title": "Working Student - Waste Management",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3416581",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "ADMINISTRATIA NATIONALA DE METEOROLOGIE R A BUCURESTI DIRECTIA METEOROLOGICA REGIONALA OLTENIA SUCURSALA CRAIOVA",
     "location": [
-      "România"
+      "Municipiul tulcea",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-22T11:31:25.131Z",
+    "date": "2026-10-17T12:18:54.221Z",
     "status": "scraped",
     "tags": [
-      "management de mediu",
-      "dezvoltare durabilă"
+      "meteorologie",
+      "hazarde"
     ],
-    "matchPercentage": 62,
-    "reason": "Stagiu în managementul deșeurilor, apropiat de competențele de management de mediu și dezvoltare durabilă."
+    "matchPercentage": 65,
+    "reason": "Legat parțial de meteorologie și managementul hazardelor, dar sarcinile sunt mai mult administrative."
   }
 ]
