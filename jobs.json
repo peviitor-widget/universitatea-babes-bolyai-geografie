@@ -11,28 +11,28 @@
     "date": "2026-10-17T12:15:15.810Z",
     "status": "scraped",
     "tags": [
-      "topografie computerizată",
+      "topografie",
       "cadastru"
     ],
-    "matchPercentage": 85,
-    "reason": "Post entry-level de asistent în topografie și cadastru, folosind direct competențele de topografie computerizată și CAD."
+    "matchPercentage": 90,
+    "reason": "Topografie, cadastru și prelucrare CAD - potrivit competențelor GIS/topografie"
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3416581",
-    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "ADMINISTRATIA NATIONALA DE METEOROLOGIE R A BUCURESTI DIRECTIA METEOROLOGICA REGIONALA OLTENIA SUCURSALA CRAIOVA",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
+    "title": "EXPERT IMPLEMENTARE",
+    "company": "AGENŢIA DE DEZVOLTARE LOCALĂ ORADEA S.A.",
     "location": [
-      "Municipiul tulcea",
+      "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:18:54.221Z",
+    "date": "2026-10-17T12:19:01.168Z",
     "status": "scraped",
     "tags": [
-      "meteorologie",
-      "hazarde"
+      "regional",
+      "proiecte"
     ],
     "matchPercentage": 65,
-    "reason": "Legat parțial de meteorologie și managementul hazardelor, dar sarcinile sunt mai mult administrative."
+    "reason": "Parțial legat de dezvoltare regională și proiecte cu finanțare europeană."
   }
 ]
