@@ -14,25 +14,7 @@
       "topografie",
       "cadastru"
     ],
-    "matchPercentage": 90,
-    "reason": "Topografie, cadastru și prelucrare CAD - potrivit competențelor GIS/topografie"
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
-    "title": "EXPERT IMPLEMENTARE",
-    "company": "AGENŢIA DE DEZVOLTARE LOCALĂ ORADEA S.A.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:01.168Z",
-    "status": "scraped",
-    "tags": [
-      "regional",
-      "proiecte"
-    ],
-    "matchPercentage": 65,
-    "reason": "Parțial legat de dezvoltare regională și proiecte cu finanțare europeană."
+    "matchPercentage": 92,
+    "reason": "Asistent tehnic în topografie și cadastru, cu prelucrare CAD și lucrări de teren, potrivit pentru entry-level."
   }
 ]
