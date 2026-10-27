@@ -11,10 +11,81 @@
     "date": "2026-10-17T12:15:15.810Z",
     "status": "scraped",
     "tags": [
-      "topografie",
+      "topografie computerizată",
       "cadastru"
     ],
-    "matchPercentage": 92,
-    "reason": "Asistent tehnic în topografie și cadastru, cu prelucrare CAD și lucrări de teren, potrivit pentru entry-level."
+    "matchPercentage": 88,
+    "reason": "Post entry-level de asistent tehnic în topografie și cadastru, cu prelucrare de date în CAD și lucru pe teren, direct relevant pentru competențele tale."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-turism/2050",
+    "title": "Consultant Turism",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:11:46.322Z",
+    "status": "scraped",
+    "tags": [
+      "turism",
+      "planificare"
+    ],
+    "matchPercentage": 75,
+    "reason": "Consultanță turism, relevant parțial"
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
+    "title": "EXPERT IMPLEMENTARE",
+    "company": "AGENŢIA DE DEZVOLTARE LOCALĂ ORADEA S.A.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:01.168Z",
+    "status": "scraped",
+    "tags": [
+      "proiecte",
+      "regional"
+    ],
+    "matchPercentage": 65,
+    "reason": "Monitorizare proiecte cu finanțare europeană, parțial legat de dezvoltare regională."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/broker-asigurari-si-promoter-turism-3",
+    "title": "Consultant Asigurari, Turism, Finante",
+    "company": "DESTINE BROKER DE ASIGURARE-REASIGURARE SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:27.851Z",
+    "status": "scraped",
+    "tags": [
+      "turism",
+      "marketing"
+    ],
+    "matchPercentage": 65,
+    "reason": "Consultant turism/asigurări, legătură parțială"
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/broker-asigurari-si-promoter-turism",
+    "title": "BROKER ASIGURĂRI ȘI PROMOTER TURISM",
+    "company": "DESTINE HOLDING SA",
+    "location": [
+      "Remote",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:01.476Z",
+    "status": "scraped",
+    "tags": [
+      "turism",
+      "marketing"
+    ],
+    "matchPercentage": 65,
+    "reason": "Broker asigurări și promoter turism"
   }
 ]
