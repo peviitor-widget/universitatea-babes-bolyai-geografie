@@ -11,46 +11,11 @@
     "date": "2026-10-17T12:15:15.810Z",
     "status": "scraped",
     "tags": [
-      "topografie",
+      "topografie computerizată",
       "cadastru"
     ],
-    "matchPercentage": 95,
-    "reason": "Activități directe de topografie, cadastru și prelucrare CAD."
-  },
-  {
-    "url": "https://multijobs.ro/job/consultant-turism/2050",
-    "title": "Consultant Turism",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:11:46.322Z",
-    "status": "scraped",
-    "tags": [
-      "turism",
-      "consultanta"
-    ],
-    "matchPercentage": 75,
-    "reason": "Consultanță turism relevant parțial pentru specializare"
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-instalari-gps-25",
-    "title": "Tehnician Instalari GPS",
-    "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:13:54.793Z",
-    "status": "scraped",
-    "tags": [
-      "GPS",
-      "topografie"
-    ],
-    "matchPercentage": 65,
-    "reason": "Legat partial de GPS și topografie, nivel tehnician acceptabil."
+    "matchPercentage": 90,
+    "reason": "Job entry-level de topografie și cadastru, cu prelucrare de date de teren în CAD, direct relevant pentru competențele geomatice."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
@@ -64,45 +29,10 @@
     "date": "2026-10-17T12:19:01.168Z",
     "status": "scraped",
     "tags": [
-      "finanțare",
-      "proiecte"
+      "finanțare europeană",
+      "dezvoltare regională"
     ],
-    "matchPercentage": 65,
-    "reason": "Parțial relevant pentru dezvoltarea regională și coordonarea proiectelor cu finanțare europeană."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/broker-asigurari-si-promoter-turism-3",
-    "title": "Consultant Asigurari, Turism, Finante",
-    "company": "DESTINE BROKER DE ASIGURARE-REASIGURARE SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:09:27.851Z",
-    "status": "scraped",
-    "tags": [
-      "turism",
-      "marketing"
-    ],
-    "matchPercentage": 65,
-    "reason": "Promovare turism/asigurări, legătură parțială"
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/broker-asigurari-si-promoter-turism",
-    "title": "BROKER ASIGURĂRI ȘI PROMOTER TURISM",
-    "company": "DESTINE HOLDING SA",
-    "location": [
-      "Remote",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:09:01.476Z",
-    "status": "scraped",
-    "tags": [
-      "turism",
-      "marketing"
-    ],
-    "matchPercentage": 65,
-    "reason": "Broker asigurări și promoter turism"
+    "matchPercentage": 62,
+    "reason": "Monitorizarea proiectelor cu finanțare europeană într-o agenție de dezvoltare locală se suprapune parțial cu competențele de proiecte europene și dezvoltare regională, iar nivelul cere doar minimum 1 an experiență."
   }
 ]
