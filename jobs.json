@@ -11,28 +11,10 @@
     "date": "2026-10-17T12:15:15.810Z",
     "status": "scraped",
     "tags": [
-      "topografie computerizată",
+      "topografie computerizata",
       "cadastru"
     ],
     "matchPercentage": 90,
-    "reason": "Job entry-level de topografie și cadastru, cu prelucrare de date de teren în CAD, direct relevant pentru competențele geomatice."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
-    "title": "EXPERT IMPLEMENTARE",
-    "company": "AGENŢIA DE DEZVOLTARE LOCALĂ ORADEA S.A.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:01.168Z",
-    "status": "scraped",
-    "tags": [
-      "finanțare europeană",
-      "dezvoltare regională"
-    ],
-    "matchPercentage": 62,
-    "reason": "Monitorizarea proiectelor cu finanțare europeană într-o agenție de dezvoltare locală se suprapune parțial cu competențele de proiecte europene și dezvoltare regională, iar nivelul cere doar minimum 1 an experiență."
+    "reason": "Post entry-level de topografie si cadastru ce foloseste direct competentele de topografie computerizata si GIS."
   }
 ]
