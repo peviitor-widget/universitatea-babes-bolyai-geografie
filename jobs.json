@@ -11,10 +11,28 @@
     "date": "2026-10-17T12:15:15.810Z",
     "status": "scraped",
     "tags": [
-      "topografie computerizată",
+      "topografie",
       "cadastru"
     ],
-    "matchPercentage": 90,
-    "reason": "Asistent tehnic în topografie și cadastru, entry-level, cu activitate de birou și teren direct relevantă."
+    "matchPercentage": 85,
+    "reason": "Asistent tehnic în topografie și cadastru, folosind direct competențele de topografie computerizată și CAD, la nivel entry-level."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
+    "title": "EXPERT IMPLEMENTARE",
+    "company": "AGENŢIA DE DEZVOLTARE LOCALĂ ORADEA S.A.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:01.168Z",
+    "status": "scraped",
+    "tags": [
+      "finantare europeana",
+      "dezvoltare regionala"
+    ],
+    "matchPercentage": 62,
+    "reason": "Implementare si monitorizare proiecte cu finantare europeana, potrivire partiala cu competenta de coordonare proiecte europene la nivel entry/mid."
   }
 ]
