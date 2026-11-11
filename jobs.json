@@ -11,11 +11,29 @@
     "date": "2026-10-17T12:15:15.810Z",
     "status": "scraped",
     "tags": [
-      "topografie",
+      "topografie computerizată",
       "cadastru"
     ],
-    "matchPercentage": 85,
-    "reason": "Asistent tehnic în topografie și cadastru, folosind direct competențele de topografie computerizată și CAD, la nivel entry-level."
+    "matchPercentage": 88,
+    "reason": "Post entry-level de asistent topografie cu cadastru, CAD și prelucrare date de teren, direct relevant."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-turism/2050",
+    "title": "Consultant Turism",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:11:46.322Z",
+    "status": "scraped",
+    "tags": [
+      "management turistic",
+      "strategii turistice"
+    ],
+    "matchPercentage": 63,
+    "reason": "Consultant turism se potrivește parțial cu competențele de management și strategii turistice, deși sarcinile nu sunt detaliate."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
@@ -29,10 +47,10 @@
     "date": "2026-10-17T12:19:01.168Z",
     "status": "scraped",
     "tags": [
-      "finantare europeana",
-      "dezvoltare regionala"
+      "finanțare europeană",
+      "dezvoltare regională"
     ],
-    "matchPercentage": 62,
-    "reason": "Implementare si monitorizare proiecte cu finantare europeana, potrivire partiala cu competenta de coordonare proiecte europene la nivel entry/mid."
+    "matchPercentage": 60,
+    "reason": "Post entry-level de implementare și monitorizare a proiectelor cu finanțare europeană, parțial relevant prin competența de coordonare a proiectelor, dar fără aplicare geografică directă."
   }
 ]
