@@ -14,8 +14,8 @@
       "topografie computerizată",
       "cadastru"
     ],
-    "matchPercentage": 88,
-    "reason": "Post entry-level de asistent topografie cu cadastru, CAD și prelucrare date de teren, direct relevant."
+    "matchPercentage": 90,
+    "reason": "Asistent tehnic în topografie și cadastru, entry-level, folosește direct topografia computerizată și prelucrarea CAD."
   },
   {
     "url": "https://multijobs.ro/job/consultant-turism/2050",
@@ -30,27 +30,9 @@
     "status": "scraped",
     "tags": [
       "management turistic",
-      "strategii turistice"
+      "marketing turistic"
     ],
-    "matchPercentage": 63,
-    "reason": "Consultant turism se potrivește parțial cu competențele de management și strategii turistice, deși sarcinile nu sunt detaliate."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/expert-implementare/99249373",
-    "title": "EXPERT IMPLEMENTARE",
-    "company": "AGENŢIA DE DEZVOLTARE LOCALĂ ORADEA S.A.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:01.168Z",
-    "status": "scraped",
-    "tags": [
-      "finanțare europeană",
-      "dezvoltare regională"
-    ],
-    "matchPercentage": 60,
-    "reason": "Post entry-level de implementare și monitorizare a proiectelor cu finanțare europeană, parțial relevant prin competența de coordonare a proiectelor, dar fără aplicare geografică directă."
+    "matchPercentage": 65,
+    "reason": "Rol de consultant în turism, relevant parțial pentru formarea în management și marketing turistic, la nivel de intrare."
   }
 ]
