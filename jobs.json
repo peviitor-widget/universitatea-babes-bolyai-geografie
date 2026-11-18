@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://dreamjobs.ro/ro/job/dma-topografie/asistent-tehnic-in-topografie",
+    "title": "Asistent Tehnic în Topografie",
+    "company": "DMA TOPOGRAFIE S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:36:24Z",
+    "status": "tested",
+    "tags": [
+      "topografie computerizată",
+      "fotogrammetrie UAV"
+    ],
+    "matchPercentage": 90,
+    "reason": "Asistent tehnic în topografie cu scanare laser 3D și fotogrammetrie, potrivire directă pe competențe și nivel entry."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3391567",
     "title": "TEHNICIAN TOPOMETRIST",
     "company": "DMA TOPOGRAFIE S.R.L.",
@@ -11,11 +29,29 @@
     "date": "2026-11-16T13:05:46Z",
     "status": "verified",
     "tags": [
-      "topografie",
-      "GPS"
+      "topografie computerizată",
+      "cadastru edilitar"
     ],
     "matchPercentage": 88,
-    "reason": "Tehnician topometrist pentru studii superioare fără licență și zero experiență, în domeniul direct al topografiei."
+    "reason": "Tehnician topometrist fără experiență, cu sarcini directe de topografie și măsurători."
+  },
+  {
+    "url": "https://dreamjobs.ro/ro/job/dma-topografie/responsabil-administrativ-financiar",
+    "title": "Responsabil administrativ-financiar",
+    "company": "DMA TOPOGRAFIE S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:47:58Z",
+    "status": "tested",
+    "tags": [
+      "cadastru edilitar",
+      "topografie computerizată"
+    ],
+    "matchPercentage": 85,
+    "reason": "Deși titlul e administrativ-financiar, sarcinile reale sunt de cadastru, topografie și vectorizare CAD, potrivite profilului."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3417850",
@@ -29,11 +65,11 @@
     "date": "2026-11-16T13:05:46Z",
     "status": "verified",
     "tags": [
-      "cadastru",
+      "cadastru edilitar",
       "GIS"
     ],
-    "matchPercentage": 85,
-    "reason": "Consilier cadastru cu studii superioare și zero experiență, potrivit competențelor de cadastru asistat de GIS."
+    "matchPercentage": 82,
+    "reason": "Consilier cadastru pentru absolvenți fără experiență, folosește direct competențele de cadastru și GIS."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3417818",
@@ -47,11 +83,11 @@
     "date": "2026-11-16T13:05:46Z",
     "status": "verified",
     "tags": [
-      "cadastru",
-      "topografie"
+      "cadastru edilitar",
+      "GIS"
     ],
-    "matchPercentage": 85,
-    "reason": "Subinginer cadastru cu studii superioare și zero experiență, aliniat competențelor de topografie și cadastru."
+    "matchPercentage": 82,
+    "reason": "Subinginer cadastru pentru absolvenți fără experiență, relevant direct pe cadastru edilitar."
   },
   {
     "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
@@ -65,11 +101,11 @@
     "date": "2026-11-17T10:53:24Z",
     "status": "tested",
     "tags": [
-      "cadastru",
-      "topografie"
+      "cadastru edilitar",
+      "topografie computerizată"
     ],
     "matchPercentage": 80,
-    "reason": "Domeniul cadastru-topografie-geodezie corespunde direct competențelor de topografie computerizată și cadastru asistat de GIS, deși se cere experiență în documentații cadastrale."
+    "reason": "Activitate de cadastru și geodezie-topografie la birou, relevantă pentru competențele de cadastru edilitar."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3417848",
@@ -83,63 +119,28 @@
     "date": "2026-11-16T13:05:46Z",
     "status": "verified",
     "tags": [
-      "cadastru",
-      "topografie"
+      "cadastru edilitar",
+      "topografie computerizată"
     ],
     "matchPercentage": 80,
-    "reason": "Tehnician cadastru la nivel de început, domeniu direct, deși solicită doar studii liceale de specialitate."
+    "reason": "Tehnician cadastru entry-level, sarcinile de cadastru se potrivesc profilului de geografie."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446510",
-    "title": "SPECIALIST ÎN MANAGEMENTUL DESEURILOR",
-    "company": "VIVANI SALUBRITATE SA",
+    "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
+    "title": "Responsabil activitati monitorizare Dunare",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
     "location": [
-      "SLOBOZIA",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:56:12Z",
-    "status": "verified",
+    "date": "2026-11-17T09:52:40Z",
+    "status": "tested",
     "tags": [
-      "protecția mediului",
-      "ODD/SDGs"
+      "calitatea apei",
+      "management de mediu"
     ],
     "matchPercentage": 75,
-    "reason": "Managementul deșeurilor se încadrează la management de mediu și dezvoltare durabilă, iar nivelul sub 3 ani este potrivit."
-  },
-  {
-    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/marketing-publicitate/anunt/specialist-turism-vanzari-si-marketing-targu-neamt/ehi7e34g24ge7877d266786heeh592d4.html",
-    "title": "Specialist Turism, Vanzari si Marketing - Targu Neamt",
-    "company": "PUBLI24 DIGITAL S.R.L.",
-    "location": [
-      "Targu Neamt",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:03:48Z",
-    "status": "tested",
-    "tags": [
-      "marketing turistic",
-      "structuri primire"
-    ],
-    "matchPercentage": 60,
-    "reason": "Specialist în turism cu marketing și vânzări pentru o structură de cazare, domeniu înrudit și nivel entry/mid, deși componenta comercială e puternică."
-  },
-  {
-    "url": "https://fjobs.ro/job/agent-turism-cu-experienta/",
-    "title": "AGENT TURISM CU…",
-    "company": "TROPIKAL TOURS INTERNATIONAL SRL",
-    "location": [
-      "Cluj",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:38:22Z",
-    "status": "tested",
-    "tags": [
-      "marketing turistic"
-    ],
-    "matchPercentage": 60,
-    "reason": "Agent de turism cu 2 ani experiență și studii superioare, domeniu turistic potrivit ca nivel, dar sarcini preponderent comerciale."
+    "reason": "Monitorizarea calității apelor Dunării folosește direct competențele de evaluare a resurselor de apă și management de mediu, la nivel de institut de cercetare accesibil unui absolvent."
   }
 ]
