@@ -11,11 +11,11 @@
     "date": "2026-11-17T15:36:24Z",
     "status": "tested",
     "tags": [
-      "topografie computerizată",
-      "fotogrammetrie UAV"
+      "Topografie",
+      "Cadastru"
     ],
-    "matchPercentage": 90,
-    "reason": "Asistent tehnic în topografie cu scanare laser 3D și fotogrammetrie, potrivire directă pe competențe și nivel entry."
+    "matchPercentage": 92,
+    "reason": "Poziție entry-level în topografie și cadastru cu vectorizare CAD, exact în sfera competențelor mele."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3391567",
@@ -29,29 +29,11 @@
     "date": "2026-11-16T13:05:46Z",
     "status": "verified",
     "tags": [
-      "topografie computerizată",
-      "cadastru edilitar"
+      "Topografie",
+      "GPS"
     ],
     "matchPercentage": 88,
-    "reason": "Tehnician topometrist fără experiență, cu sarcini directe de topografie și măsurători."
-  },
-  {
-    "url": "https://dreamjobs.ro/ro/job/dma-topografie/responsabil-administrativ-financiar",
-    "title": "Responsabil administrativ-financiar",
-    "company": "DMA TOPOGRAFIE S.R.L.",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:47:58Z",
-    "status": "tested",
-    "tags": [
-      "cadastru edilitar",
-      "topografie computerizată"
-    ],
-    "matchPercentage": 85,
-    "reason": "Deși titlul e administrativ-financiar, sarcinile reale sunt de cadastru, topografie și vectorizare CAD, potrivite profilului."
+    "reason": "Tehnician topometrist cu 0 ani experiență, domeniu direct: topografie și măsurători."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3417850",
@@ -65,11 +47,11 @@
     "date": "2026-11-16T13:05:46Z",
     "status": "verified",
     "tags": [
-      "cadastru edilitar",
+      "Cadastru",
       "GIS"
     ],
-    "matchPercentage": 82,
-    "reason": "Consilier cadastru pentru absolvenți fără experiență, folosește direct competențele de cadastru și GIS."
+    "matchPercentage": 88,
+    "reason": "Consilier cadastru începător, domeniu direct, cu competențe de cadastru edilitar asistat de GIS."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3417818",
@@ -83,47 +65,11 @@
     "date": "2026-11-16T13:05:46Z",
     "status": "verified",
     "tags": [
-      "cadastru edilitar",
-      "GIS"
+      "Cadastru",
+      "Topografie"
     ],
-    "matchPercentage": 82,
-    "reason": "Subinginer cadastru pentru absolvenți fără experiență, relevant direct pe cadastru edilitar."
-  },
-  {
-    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
-    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
-    "company": "JOBZZLE CONNECT S.R.L.",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:53:24Z",
-    "status": "tested",
-    "tags": [
-      "cadastru edilitar",
-      "topografie computerizată"
-    ],
-    "matchPercentage": 80,
-    "reason": "Activitate de cadastru și geodezie-topografie la birou, relevantă pentru competențele de cadastru edilitar."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417848",
-    "title": "TEHNICIAN CADASTRU",
-    "company": "GLOBALMAP S.R.L.",
-    "location": [
-      "SUCEAVA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "cadastru edilitar",
-      "topografie computerizată"
-    ],
-    "matchPercentage": 80,
-    "reason": "Tehnician cadastru entry-level, sarcinile de cadastru se potrivesc profilului de geografie."
+    "matchPercentage": 88,
+    "reason": "Subinginer cadastru cu 0 ani experiență, potrivit competențelor de topografie și cadastru."
   },
   {
     "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
@@ -138,9 +84,63 @@
     "status": "tested",
     "tags": [
       "calitatea apei",
-      "management de mediu"
+      "riscuri hidrice"
+    ],
+    "matchPercentage": 82,
+    "reason": "Monitorizarea Dunării la un institut de cercetare pentru protecția mediului folosește direct calitatea apei, riscurile hidrice și competențele de cercetare-dezvoltare."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417848",
+    "title": "TEHNICIAN CADASTRU",
+    "company": "GLOBALMAP S.R.L.",
+    "location": [
+      "SUCEAVA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "Cadastru",
+      "Topografie"
+    ],
+    "matchPercentage": 80,
+    "reason": "Tehnician cadastru începător care folosește direct competențe de cadastru și topografie."
+  },
+  {
+    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
+    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:52:40Z",
+    "status": "tested",
+    "tags": [
+      "protecție mediu",
+      "riscuri climatice"
+    ],
+    "matchPercentage": 80,
+    "reason": "Institutul național de cercetare în protecția mediului oferă treapta ACS (cercetător începător), aliniată direct competențelor de mediu, riscuri climatice și biodiversitate din profil."
+  },
+  {
+    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
+    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
+    "company": "JOBZZLE CONNECT S.R.L.",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:53:24Z",
+    "status": "tested",
+    "tags": [
+      "Cadastru",
+      "Topografie"
     ],
     "matchPercentage": 75,
-    "reason": "Monitorizarea calității apelor Dunării folosește direct competențele de evaluare a resurselor de apă și management de mediu, la nivel de institut de cercetare accesibil unui absolvent."
+    "reason": "Domeniul cadastru-geodezie corespunde, dar cere experiență prealabilă, nu doar studii."
   }
 ]
