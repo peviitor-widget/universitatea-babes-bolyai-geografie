@@ -14,44 +14,8 @@
       "topografie",
       "cadastru"
     ],
-    "matchPercentage": 92,
-    "reason": "Post entry-level de asistent în topografie cu vectorizare CAD, cadastru și legătură cu ANCPI/OCPI, potrivit direct competențelor."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3391567",
-    "title": "TEHNICIAN TOPOMETRIST",
-    "company": "DMA TOPOGRAFIE S.R.L.",
-    "location": [
-      "BOBALNA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "topografie",
-      "cadastru"
-    ],
-    "matchPercentage": 90,
-    "reason": "Tehnician topometrist cu zero ani experiență și studii superioare, potrivit direct competențelor de topografie."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417850",
-    "title": "CONSILIER CADASTRU",
-    "company": "GLOBALMAP S.R.L.",
-    "location": [
-      "SUCEAVA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "cadastru",
-      "topografie"
-    ],
-    "matchPercentage": 90,
-    "reason": "Consilier cadastru cu zero ani experiență și studii superioare, potrivit direct competențelor de cadastru."
+    "matchPercentage": 88,
+    "reason": "Post entry-level în topografie și cadastru, cu vectorizare în CAD și colaborare cu ANCPI/OCPI și primării, în Cluj-Napoca."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3417818",
@@ -68,8 +32,8 @@
       "cadastru",
       "topografie"
     ],
-    "matchPercentage": 90,
-    "reason": "Subinginer cadastru cu zero ani experiență și studii superioare, potrivit direct competențelor de cadastru."
+    "matchPercentage": 85,
+    "reason": "Subinginer cadastru cu studii superioare și 0 ani experiență, potrivit ca nivel și domeniu."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3417848",
@@ -86,8 +50,26 @@
       "cadastru",
       "topografie"
     ],
-    "matchPercentage": 88,
-    "reason": "Tehnician cadastru cu zero ani experiență, sarcini direct în domeniu și accesibil absolventului."
+    "matchPercentage": 82,
+    "reason": "Tehnician cadastru cu 0 ani experiență, cu sarcini direct în domeniul cadastrului și topografiei."
+  },
+  {
+    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
+    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
+    "company": "JOBZZLE CONNECT S.R.L.",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:53:24Z",
+    "status": "tested",
+    "tags": [
+      "cadastru",
+      "topografie"
+    ],
+    "matchPercentage": 78,
+    "reason": "Activitate de birou în cadastru-topografie-geodezie, potrivită pentru un absolvent cu studii în domeniu, deși menționează experiență în cadastru."
   },
   {
     "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
@@ -101,46 +83,28 @@
     "date": "2026-11-17T09:52:40Z",
     "status": "tested",
     "tags": [
-      "calitate apă",
-      "management mediu"
+      "calitatea apei",
+      "biodiversitate"
     ],
     "matchPercentage": 78,
-    "reason": "Activitățile de monitorizare a Dunării se potrivesc cu competențe de mediu și evaluarea calității apei, iar nivelul nu este indicat ca senior."
+    "reason": "Monitorizarea Dunării într-un institut de protecție a mediului folosește direct evaluarea calității apei și a biodiversității, iar rolul de responsabil de activitate este de specialist/mid, nu de conducere."
   },
   {
-    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/marketing-publicitate/anunt/specialist-turism-vanzari-si-marketing-targu-neamt/ehi7e34g24ge7877d266786heeh592d4.html",
-    "title": "Specialist Turism, Vanzari si Marketing - Targu Neamt",
-    "company": "PUBLI24 DIGITAL S.R.L.",
+    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
+    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
     "location": [
-      "Targu Neamt",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T11:03:48Z",
+    "date": "2026-11-17T09:52:40Z",
     "status": "tested",
     "tags": [
-      "marketing turistic",
-      "primire turistică"
+      "cercetare-dezvoltare",
+      "protecția mediului"
     ],
-    "matchPercentage": 65,
-    "reason": "Specialist în turism și marketing la o unitate de cazare, folosește parțial marketingul turistic și managementul structurilor de primire."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446510",
-    "title": "SPECIALIST ÎN MANAGEMENTUL DESEURILOR",
-    "company": "VIVANI SALUBRITATE SA",
-    "location": [
-      "SLOBOZIA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:56:12Z",
-    "status": "verified",
-    "tags": [
-      "management mediu",
-      "protecție mediu"
-    ],
-    "matchPercentage": 60,
-    "reason": "Managementul deșeurilor se leagă parțial de managementul de mediu, dar fișa postului nu detaliază sarcini tehnice de specialitate."
+    "matchPercentage": 72,
+    "reason": "Institutul de cercetare pentru protecția mediului include gradul ACS (asistent de cercetare, entry-level), compatibil cu competențele de cercetare-dezvoltare și protecție a mediului."
   }
 ]
