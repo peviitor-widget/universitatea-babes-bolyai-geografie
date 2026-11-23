@@ -12,14 +12,32 @@
     "status": "tested",
     "tags": [
       "topografie",
-      "cadastru"
+      "fotogrammetrie"
     ],
-    "matchPercentage": 88,
-    "reason": "Post entry-level în topografie și cadastru, cu vectorizare în CAD și colaborare cu ANCPI/OCPI și primării, în Cluj-Napoca."
+    "matchPercentage": 92,
+    "reason": "Asistent tehnic în topografie cu scanare laser 3D, fotogrammetrie și documentații de intabulare, nivel entry-level."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417818",
-    "title": "SUBINGINER CADASTRU",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3391567",
+    "title": "TEHNICIAN TOPOMETRIST",
+    "company": "DMA TOPOGRAFIE S.R.L.",
+    "location": [
+      "BOBALNA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "topografie",
+      "GPS"
+    ],
+    "matchPercentage": 90,
+    "reason": "Tehnician topometrist cu studii superioare și 0 ani experiență, potrivire directă cu specialitatea."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417850",
+    "title": "CONSILIER CADASTRU",
     "company": "GLOBALMAP S.R.L.",
     "location": [
       "SUCEAVA",
@@ -33,7 +51,25 @@
       "topografie"
     ],
     "matchPercentage": 85,
-    "reason": "Subinginer cadastru cu studii superioare și 0 ani experiență, potrivit ca nivel și domeniu."
+    "reason": "Consilier cadastru cu studii superioare și 0 ani experiență, domeniu direct de specialitate."
+  },
+  {
+    "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
+    "title": "Responsabil activitati monitorizare Dunare",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:52:40Z",
+    "status": "tested",
+    "tags": [
+      "calitate apă",
+      "biodiversitate"
+    ],
+    "matchPercentage": 82,
+    "reason": "Monitorizarea Dunării la un institut de protecție a mediului folosește direct evaluarea calității apei și a biodiversității, la nivel de specialist."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3417848",
@@ -50,8 +86,26 @@
       "cadastru",
       "topografie"
     ],
-    "matchPercentage": 82,
-    "reason": "Tehnician cadastru cu 0 ani experiență, cu sarcini direct în domeniul cadastrului și topografiei."
+    "matchPercentage": 80,
+    "reason": "Tehnician cadastru entry-level, sarcini direct din domeniul cadastrului și topografiei."
+  },
+  {
+    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
+    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:52:40Z",
+    "status": "tested",
+    "tags": [
+      "protecție mediu",
+      "propuneri CDI"
+    ],
+    "matchPercentage": 80,
+    "reason": "Cercetarea în protecția mediului include grade de intrare (ACS/CS) și corespunde competențelor de mediu, ODD și propuneri CDI."
   },
   {
     "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
@@ -68,43 +122,7 @@
       "cadastru",
       "topografie"
     ],
-    "matchPercentage": 78,
-    "reason": "Activitate de birou în cadastru-topografie-geodezie, potrivită pentru un absolvent cu studii în domeniu, deși menționează experiență în cadastru."
-  },
-  {
-    "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
-    "title": "Responsabil activitati monitorizare Dunare",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:52:40Z",
-    "status": "tested",
-    "tags": [
-      "calitatea apei",
-      "biodiversitate"
-    ],
-    "matchPercentage": 78,
-    "reason": "Monitorizarea Dunării într-un institut de protecție a mediului folosește direct evaluarea calității apei și a biodiversității, iar rolul de responsabil de activitate este de specialist/mid, nu de conducere."
-  },
-  {
-    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
-    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:52:40Z",
-    "status": "tested",
-    "tags": [
-      "cercetare-dezvoltare",
-      "protecția mediului"
-    ],
     "matchPercentage": 72,
-    "reason": "Institutul de cercetare pentru protecția mediului include gradul ACS (asistent de cercetare, entry-level), compatibil cu competențele de cercetare-dezvoltare și protecție a mediului."
+    "reason": "Domeniul cadastru/topografie se potrivește direct, dar cere experiență în elaborarea documentațiilor cadastrale."
   }
 ]
