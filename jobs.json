@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "url": "https://dreamjobs.ro/ro/job/dma-topografie/asistent-tehnic-in-topografie",
+    "title": "Asistent Tehnic în Topografie",
+    "company": "DMA TOPOGRAFIE S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:36:24Z",
+    "status": "tested",
+    "tags": [
+      "Topografie",
+      "Fotogrammetrie"
+    ],
+    "matchPercentage": 92,
+    "reason": "Asistent tehnic în topografie cu scanare laser 3D, fotogrammetrie și cadastru, nivel entry-level."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417850",
+    "title": "CONSILIER CADASTRU",
+    "company": "GLOBALMAP S.R.L.",
+    "location": [
+      "SUCEAVA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "Cadastru",
+      "Topografie"
+    ],
+    "matchPercentage": 88,
+    "reason": "Consilier cadastru cu studii superioare și 0 ani experiență, domeniu și nivel potrivite."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417818",
+    "title": "SUBINGINER CADASTRU",
+    "company": "GLOBALMAP S.R.L.",
+    "location": [
+      "SUCEAVA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "Cadastru",
+      "Topografie"
+    ],
+    "matchPercentage": 88,
+    "reason": "Subinginer cadastru cu studii superioare și 0 ani experiență, potrivire directă."
+  },
+  {
+    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
+    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
+    "company": "JOBZZLE CONNECT S.R.L.",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:53:24Z",
+    "status": "tested",
+    "tags": [
+      "Cadastru",
+      "Topografie"
+    ],
+    "matchPercentage": 80,
+    "reason": "Activitate de birou în cadastru, topografie și geodezie, fără cerințe de senioritate."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417848",
+    "title": "TEHNICIAN CADASTRU",
+    "company": "GLOBALMAP S.R.L.",
+    "location": [
+      "SUCEAVA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "Cadastru",
+      "Topografie"
+    ],
+    "matchPercentage": 80,
+    "reason": "Tehnician cadastru începător cu sarcini de specialitate, deși se cere liceu de specialitate."
+  }
+]
