@@ -14,26 +14,8 @@
       "Topografie",
       "Fotogrammetrie"
     ],
-    "matchPercentage": 92,
-    "reason": "Asistent tehnic în topografie cu scanare laser 3D, fotogrammetrie și cadastru, nivel entry-level."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417850",
-    "title": "CONSILIER CADASTRU",
-    "company": "GLOBALMAP S.R.L.",
-    "location": [
-      "SUCEAVA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "Cadastru",
-      "Topografie"
-    ],
     "matchPercentage": 88,
-    "reason": "Consilier cadastru cu studii superioare și 0 ani experiență, domeniu și nivel potrivite."
+    "reason": "Asistent tehnic în topografie cu scanare laser 3D și fotogrammetrie, nivel de intrare potrivit pentru un absolvent."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3417818",
@@ -50,26 +32,62 @@
       "Cadastru",
       "Topografie"
     ],
-    "matchPercentage": 88,
-    "reason": "Subinginer cadastru cu studii superioare și 0 ani experiență, potrivire directă."
+    "matchPercentage": 86,
+    "reason": "Subinginer cadastru cu studii superioare și fără experiență, potrivit pentru competențele de geodezie și cadastru."
   },
   {
-    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
-    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
-    "company": "JOBZZLE CONNECT S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3391567",
+    "title": "TEHNICIAN TOPOMETRIST",
+    "company": "DMA TOPOGRAFIE S.R.L.",
     "location": [
-      "Pitești",
+      "BOBALNA",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:53:24Z",
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "Topografie",
+      "GPS"
+    ],
+    "matchPercentage": 85,
+    "reason": "Tehnician topometrist cu studii superioare și zero ani experiență, domeniu direct compatibil cu topografia computerizată."
+  },
+  {
+    "url": "https://multijobs.ro/job/responsabil-activitati-monitorizare-dunare/3966",
+    "title": "Responsabil activitati monitorizare Dunare",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:52:40Z",
     "status": "tested",
     "tags": [
-      "Cadastru",
-      "Topografie"
+      "calitatea apei",
+      "biodiversitate"
+    ],
+    "matchPercentage": 82,
+    "reason": "Monitorizarea Dunării la un institut de protecția mediului folosește direct competențe de evaluare a calității apei și a biodiversității, iar postul nu impune experiență îndelungată."
+  },
+  {
+    "url": "https://multijobs.ro/job/cercetator-acs-cs-cs-iii-cs-ii-cs-i/3965",
+    "title": "Cercetator (ACS, CS, CS III, CS II, CS I)",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU PROTECŢIA MEDIULUI BUCUREŞTI",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:52:40Z",
+    "status": "tested",
+    "tags": [
+      "protecția mediului",
+      "cercetare"
     ],
     "matchPercentage": 80,
-    "reason": "Activitate de birou în cadastru, topografie și geodezie, fără cerințe de senioritate."
+    "reason": "Cariera de cercetare include treapta ACS (asistent cercetare științifică), accesibilă absolvenților, într-un domeniu direct legat de protecția mediului și propunerile de CDI."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3417848",
@@ -86,7 +104,60 @@
       "Cadastru",
       "Topografie"
     ],
-    "matchPercentage": 80,
-    "reason": "Tehnician cadastru începător cu sarcini de specialitate, deși se cere liceu de specialitate."
+    "matchPercentage": 78,
+    "reason": "Tehnician cadastru entry-level, domeniu care corespunde competențelor de cadastru edilitar asistat de GIS."
+  },
+  {
+    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
+    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
+    "company": "JOBZZLE CONNECT S.R.L.",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:53:24Z",
+    "status": "tested",
+    "tags": [
+      "Cadastru",
+      "Topografie"
+    ],
+    "matchPercentage": 72,
+    "reason": "Activitate de cadastru, topografie și geodezie cu studii potrivite, deși se cere experiență anterioară."
+  },
+  {
+    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/marketing-publicitate/anunt/specialist-turism-vanzari-si-marketing-targu-neamt/ehi7e34g24ge7877d266786heeh592d4.html",
+    "title": "Specialist Turism, Vanzari si Marketing - Targu Neamt",
+    "company": "PUBLI24 DIGITAL S.R.L.",
+    "location": [
+      "Targu Neamt",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:03:48Z",
+    "status": "tested",
+    "tags": [
+      "turism",
+      "marketing turistic"
+    ],
+    "matchPercentage": 65,
+    "reason": "Domeniul turismului este relevant și nivelul e entry-level, dar sarcinile par axate pe vânzări/marketing, nu pe planificare sau GIS."
+  },
+  {
+    "url": "https://fjobs.ro/job/agent-turism-cu-experienta/",
+    "title": "AGENT TURISM CU…",
+    "company": "TROPIKAL TOURS INTERNATIONAL SRL",
+    "location": [
+      "Cluj",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:38:22Z",
+    "status": "tested",
+    "tags": [
+      "turism"
+    ],
+    "matchPercentage": 62,
+    "reason": "Agent de turism cu 2 ani experiență în agenție, dar sarcino-zile vizează vânzări și comunicare, nu competențe tehnice de geografie."
   }
 ]
